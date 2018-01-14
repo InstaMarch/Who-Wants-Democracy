@@ -1,0 +1,25 @@
+Question 1
+What are the powers available to the FCC to police Net Neutrality and separately what are the powers available to the FTC to polic Net Neutrality?
+
+Question 2
+Why are people debating between Title II and Title I classification for Net Neutrality?
+
+Question 3
+What is the ruling of Comcast Corp. v. FCC?
+Comcast Corp. v. FCC rules that the FCC does not have ancillary jurisdiction
+over Comcast's Internet service under the language of the Communication Act of
+1934.
+
+Question 4
+What complaint was the basis of Comcast Corp. v. FFC?
+Several Comcast subscribers determined that Comcast was interfering with their
+use of peer-to-peer networking applications.
+
+Question 5
+What are the four core rules of the FCC Open Internet Order 2010?
+Transparency, no blocking, no unreasonable discrimination and reasonable network
+management.
+
+Question 6
+What was the ruling of Verizon Communications Inc v. FCC?
+It was rules that only the FCC's transparency rule of the FCC Open Internet Order 2010 should stay standing.
