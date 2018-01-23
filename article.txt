@@ -1,0 +1,15 @@
+A gameshow to save our broken system of citizen education 
+
+Americans seem to be profoundly aware that our country is broke. Unfortunately, we mostly have no idea what is going on. We have opinions, but our research skills could be improved. For the past year, at the Imaginary Jobs Program, we have been trying to solve this problem. We started by going out everyday on the streets of Boulder with a sign everyday and talking to regular Americans. Eventually we came up with a sign that said: "What really matters to you?" Then we took it on tour to the west and midwest.
+
+People would come up to us and we would interview them and we saw what incredible hope there is for America. We were inspired, but we also looked on at our political struggles and could not stand still. We knew Americans were not sufficiently informed. We started a participatory YouTube Live show called the News and Information Study Group where we studied important issues in a non-partisan context, but we knew this was not enough.
+
+Americans love a game show. Could a gameshow bring together all the elements of citizenship? We believe the answer is yes. Could it be that an open-source game show that saves our broken republic? Who knows? American history is filled with absurdity. What's one more absurdity, especially if it helps us solve our broken citizen education system.
+
+The Questions
+Our question format is basic. Question, answer and source. What makes us different from many other systems is that if you can get to the source of information, you can get extra points if you answer the question correctly. There is an incentive to be able to find a source.
+
+Speaking of sourcing, when we say that this project is open-source we mean that our question sets are on Github and we not only accept pull requests, but we shall teach you how to do one for free. You can write a question set or contribute to a question set and it could be on the show.
+
+First Episode
+Our first episode shall be on Net Neutrality. You can find the questions here. Would you like to participate? Click here to signup for our first episode on Monday, January 29th, 2018. 
