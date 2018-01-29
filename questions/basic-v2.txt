@@ -1,0 +1,108 @@
+
+Question List
+
+Question 1: A two part question.
+Part I: Who are the “four major participants in the Internet Marketplace?” from Verizon Communications Inc. v. FCC?
+
+Part II: How are they described on page 5?
+
+Backbone networks, broadband providers, edge providers, and end users.
+“Backbone networks are interconnected, long-haul fiber-optic links and
+high-speed routers capable of transmitting vast amounts of data.”
+“Today, access is generally furnished through ‘broadband,’ i.e., high-speed
+communications technologies, such as cable modem service.”
+“Edge providers are those who, like Amazon or Google, provide content,
+services, and applications over the Internet,”
+“[E]nd users are those who” consume edge providers’ content, services, and applications.”
+
+Source:
+Pg. 5 of Verizon v. Federal Communications Commission
+https://www.cadc.uscourts.gov/internet/opinions.nsf/3af8b4d938cdeea685257c6000532062/$file/11-1355-1474943.pdf
+
+Question 2
+Can you quote Section 5 of the Interstate Commerce Act of 1887?
+
+Answer:
+“That it shall be unlawful for any common carrier subject to the provisions of this act to enter into any contract, agreement, or combination with any other common carrier or carriers for the pooling of freights of different and competing railroads, or to divide between them the aggregate or net proceeds of the earnings of such railroads, or any portion thereof; and in any case of an agreement for the pooling of freights as aforesaid, each day of its continuance shall be deemed a separate offense.”
+
+Source:
+https://www.ourdocuments.gov/doc.php flash=false&doc=49&page=transcript
+
+Question 3
+What is the ruling of Comcast Corp. v. FCC?
+
+Answer:
+Comcast Corp. v. FCC rules that the FCC does not have ancillary jurisdiction over Comcast’s Internet service under the language of the Communication Act of 1934.
+
+Source: https://www.eff.org/files/comcast_v_fcc_dc_cir_2010.pdf pg. 36
+
+Question 4
+What complaint was the basis of Comcast Corp. v. FFC?
+
+Answer:
+Several Comcast subscribers determined that Comcast was interfering with their use of peer-to-peer networking applications.
+
+Source: https://www.eff.org/files/comcast_v_fcc_dc_cir_2010.pdf pg. 3
+
+Question 5
+What are the four core rules of the FCC Open Internet Order 2010?
+
+Answer:
+Transparency, no blocking, no unreasonable discrimination and reasonable network management.
+
+Source: https://apps.fcc.gov/edocs_public/attachmatch/FCC-10-201A1_Rcd.pdf pg. 2
+
+Question 6
+What was the ruling of Verizon Communications Inc v. FCC?
+
+Answer:
+It was ruled that only the FCC’s transparency rule of the FCC Open Internet Order 2010 should stay standing.
+
+Source: https://www.cadc.uscourts.gov/internet/opinions.nsf/3af8b4d938cdeea685257c6000532062/$file/11-1355-1474943.pdf pg. 63
+
+Question 7
+Can you quote Title I Section 1 of The Communications Act of 1934?
+
+Answer:
+“For the purpose of regulating interstate and foreign commerce in communication by wire and radio so as to make available, so far as possible, to all the people of the United States, without discrimination on the basis of race, color, religion, national origin, or sex, a rapid, efficient, Nationwide, and world-wide wire and radio communication service with adequate facilities at reasonable charges, for the purpose of the national defense, for the purpose of promoting safety of life and property through the use of wire and radio communication, and for the purpose of securing a more effective execution of this policy by centralizing authority heretofore granted by law to several agencies and by granting additional authority with respect to interstate and foreign commerce in wire and radio communication, there is hereby created a commission to be known as the ‘Federal Communications Commission,’ which shall be constituted as hereinafter provided, and which shall execute and enforce the provisions of this Act.”
+
+Source:
+https://transition.fcc.gov/Reports/1934new.pdf
+
+Question 8
+What are the common carrier services listed in the Current FCC Communications Act of 1934?
+
+Answer:
+“All Common Carrier Services”
+“Domestic Public Land Mobile Stations (includes Base, Dispatch, Control & Repeater Stations)”
+“Cellular Systems (per system)”
+“Rural Radio (includes Central Office, Interoffice, or Relay
+Facilities)”
+“Offshore Radio Service (Mobile, Subscriber, and Central Stations; fees would also apply to any expansion of this service into coastal waters other than the Gulf of Mexico)”
+“Point-to-Point Microwave and Local Television Radio Service”
+“Multipoint Distribution Service (including multichannel MDS)”
+“Digital Electronic Message Service”
+“International Fixed Public Radio (Public and Control Stations)”
+“Fixed Satellite Transmit/Receive Earth Stations”
+“Small Transmit/Receive Earth Stations(2 meters or less and operating in the 4/6 GHz frequency band)”
+“Receive Only Earth Stations”
+“Very Small Aperture Terminal (VSAT) Systems”
+“Mobile Satellite Earth Stations”
+“Radio determination Satellite Earth Stations”
+“Space Stations”
+“Section 214 Applications”
+“Recognized Private Operating Status (per application)”
+“Telephone Equipment Registration”
+“Tariff Filings”
+“Accounting and Audits”
+“Low-Earth Orbit Satellite Systems”
+
+Source: https://transition.fcc.gov/Reports/1934new.pdf
+
+Question 9
+Does Chairman Ajit Pai prefer Title I or Title II classification of ISPs?
+
+Answer: Title I
+
+Source:
+https://apps.fcc.gov/edocs_public/attachmatch/DOC-347980A1.pdf`
